@@ -30,5 +30,9 @@ You can build it using maven, Please use "clean install" command.
  
 
 Steps to run:
+select run on server and use below base URL
+http://localhost:8080/StockHandling/
 
-select run on server and use below links to reach different endpoints
+Softwares used:
+Server : Apache Tomcat 7.0
+Eclipse Luna
